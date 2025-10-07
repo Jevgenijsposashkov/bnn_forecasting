@@ -168,14 +168,7 @@ The notebook includes comprehensive EDA:
 4. **Deep architectures help**: 2-layer networks slightly outperform shallow ones
 5. **MCMC vs SVI**: Similar performance, MCMC provides better uncertainty estimates
 
-## 🔮 Future Work
 
-- [ ] Implement Hamiltonian Monte Carlo (HMC) for more efficient sampling
-- [ ] Add LSTM/GRU layers for sequential modeling
-- [ ] Incorporate exogenous variables (solar magnetic field data)
-- [ ] Multi-step ahead forecasting
-- [ ] Ensemble methods combining multiple BNN architectures
-- [ ] Real-time updating with new data
 
 ## 📚 References
 
@@ -193,9 +186,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+
+- GitHub: [@Jevgenijsposashkov](https://github.com/yourusername)
+
 
 ## 🙏 Acknowledgments
 
