@@ -187,7 +187,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 👤 Author
 
 
-- GitHub: [@Jevgenijsposashkov](https://github.com/yourusername)
+- GitHub: [@Jevgenijsposashkov](https://github.com/Jevgenijsposashkov)
 
 
 ## 🙏 Acknowledgments
